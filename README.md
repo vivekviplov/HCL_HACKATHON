@@ -25,21 +25,16 @@ The core of the project is an interactive **Streamlit Web Application** powered 
 
 ## 🚀 Usage
 
-### 1. Generate the Dataset
-If the dataset is missing or you want to regenerate it with new random seed values:
-```bash
-python generate_rich_data.py
-```
-*This creates `House Price Prediction Dataset_Rich_v5.csv` with all the latest features.*
 
-### 2. Run the Web Application
+
+### 1. Run the Web Application
 Launch the interactive dashboard:
 ```bash
 streamlit run app.py
 ```
 The app will open in your default web browser (usually at `http://localhost:8501`).
 
-### 3. (Optional) Advanced Analysis
+### 2. (Optional) Advanced Analysis
 To run a standalone script for model training, stacking, and static plot generation:
 ```bash
 python advanced_modeling.py
@@ -62,3 +57,4 @@ The model pricing logic considers realistic real-estate factors:
 
 ## 🤝 Contributing
 Feel free to fork this project and submit pull requests. Suggestions for new features or better model tuning are welcome!
+
