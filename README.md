@@ -55,6 +55,6 @@ The model pricing logic considers realistic real-estate factors:
 *   **Penalties**: Subtracted for distance from key amenities (School, Hospital, Transport).
 *   **Inflation**: Historical price trends account for a ~3% annual inflation rate plus location-specific appreciation.
 
-## 🤝 Contributing
-Feel free to fork this project and submit pull requests. Suggestions for new features or better model tuning are welcome!
+
+
 
